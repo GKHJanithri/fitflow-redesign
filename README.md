@@ -15,5 +15,5 @@ Redesign of the FitFlow fitness app: AI-personalized workout plans, camera-based
 
 - [Tech Stack Summary](https://github.com/GKHJanithri/fitflow-redesign/blob/main/docs/docs/docs/adr/tech-stack-summary.md)
 - [Comparison Matrix](https://github.com/GKHJanithri/fitflow-redesign/blob/main/docs/docs/docs/adr/comparison-matrix.md)
-- [Architecture Diagram](https://github.com/GKHJanithri/fitflow-redesign/blob/main/docs/docs/docs/adr/architecture-diagram.png)
+- [Architecture Diagram](https://github.com/GKHJanithri/fitflow-redesign/blob/main/docs/architecture-diagram.png)
 - [ADR-001: Technology Stack](https://github.com/GKHJanithri/fitflow-redesign/blob/main/docs/docs/docs/adr/ADR-001-technology-stack.md)
